@@ -1,0 +1,26 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: email <a href='mailto:iqbalbirrul@gmail.com'>iqbalbirrul@gmail.com</a>
+
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: more...
+      show_more_url: archive
+  
+  - title: social
+    entries:
+      - title: twitter <a href='https://twitter.com/iqbaleth'>@iqbaleth</a>
+      - title: github <a href='https://github.com/iqbwl'>@iqbwl</a>
+      - title: ens domains at <a href='https://etherscan.io/address/iqbwl.eth'>iqbwl.eth</a>
+      - title: lensprotocol at <a href='https://lenster.xyz/u/iqbal.lens'>iqbal.lens</a>
+
+  - title: rss
+    url: feed.xml
+
+  - title: copyright © 2022 - iqbal.id
