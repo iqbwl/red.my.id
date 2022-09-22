@@ -49,4 +49,4 @@ Langkah selanjutnya adalah installasi nextcloud nya.
 >
 > Pada sisi cloudflare dapat diaktifkan fitur **under attack mode** atau **anti-ddos**.
 
-Sekian..
+Sekian...
