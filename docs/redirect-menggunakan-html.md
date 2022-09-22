@@ -1,5 +1,6 @@
 ---
 title: Redirect menggunakan html
+layout: page
 ---
 
 Untuk redirect menggunakan html, cukup tambahkan parameter berikut pada header html:

@@ -1,5 +1,6 @@
 ---
 title: Powershell ssh-copy-id
+layout: page
 ---
 
 Cara import ssh public key melalui powershell.

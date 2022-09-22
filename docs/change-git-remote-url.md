@@ -1,5 +1,6 @@
 ---
 title: Change Git remote URL
+layout: page
 ---
 
 Masuk ke repository terlebih dahulu, kemudian gunakan perintah berikut:
