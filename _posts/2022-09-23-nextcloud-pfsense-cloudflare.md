@@ -16,7 +16,7 @@ Pertama, siapkan vm untuk nextcloud dan vm untuk mariadb dan harus terhubung den
 - Nextcloud (Nginx): 192.168.2.3
 - MariaDB: 192.168.2.4
 
-Konfigurasi webserver dan database nya agar saling terhubung, seperti akses database dari vm nextcloud ke vm mariadb dan documentroot Nextcloud-nya.
+Konfigurasi web server dan database nya agar saling terhubung, seperti akses database dari vm nextcloud ke vm mariadb dan documentroot Nextcloud-nya.
 
 Untuk server block nginx bisa menggunakan konfigurasi di gist berikut:
 > [https://gist.github.com/iqbwl/df4736b09d0c9e0b71c140aea4197c06](https://gist.github.com/iqbwl/df4736b09d0c9e0b71c140aea4197c06)
