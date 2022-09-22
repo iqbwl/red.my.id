@@ -1,5 +1,5 @@
 ---
-title: Nextcloud under pfSense + Cloudflare
+title: Nextcloud under pfSense & Cloudflare
 layout: post
 ---
 
