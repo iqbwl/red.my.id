@@ -236,4 +236,4 @@ Sebelumnya saya mencoba untuk membuat web wordpress menggunakan topologi load ba
 
 Setelah semuanya selesai, silakan akses wordpress melalui browser dan konfigurasi mulai dari input database sampai konfigurasi user-nya.
 
-Selesai.
+Selesai..
