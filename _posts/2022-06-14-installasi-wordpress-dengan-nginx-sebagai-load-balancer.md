@@ -5,7 +5,7 @@ layout: post
 
 Sebelumnya saya mencoba untuk membuat web wordpress menggunakan topologi load balancer, kira-kira topologinya seperti gambar berikut.
 
-![Topologi](https://gh.iqbal.id/blog/img/nginx-load-balancer.png)
+![Topologi](img/wordpress/wordpress.svg)
 
 
 | **Name** | **Service** | **IP Address** |  **OS Type** |
