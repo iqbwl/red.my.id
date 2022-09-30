@@ -39,6 +39,7 @@ exclude:
 include:
   - _pages
   - svg
+  - img
 
 # deployment
 host: 192.168.2.2

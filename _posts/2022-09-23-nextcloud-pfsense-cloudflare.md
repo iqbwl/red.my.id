@@ -5,7 +5,7 @@ layout: post
 
 Untuk judul diatas, kira-kira gambaranya seperti ini.
 
-![NextCloud + pfSense + Cloudflare](svg/nextcloud/nextcloud.svg)
+![NextCloud + pfSense + Cloudflare](svg/nextcloud.svg)
 
 Ini bertujuan agar akses web server hanya akan dari cloudflare saja, dan dari pihak luar tidak bisa langsung direct ke web server.
 
