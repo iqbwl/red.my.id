@@ -5,7 +5,7 @@ layout: post
 
 Hexo adalah framework blog sederhana tapi powerful yang didukung oleh Node.js. Web statis generator ini super cepat dan hanya membutuhkan waktu beberapa detik untuk membangun website yang lengkap.
 
-![Hexo.io](https://gh.iqbal.id/blog/img/hexo.png)
+![Hexo.io](/migrated/blog/img/hexo.png)
 
 Hexo mendukung semua fitur GitHub-flavored Markdown dan sebagian besar plugin Octopress. Salah satu keuntungan utama dari Hexo adalah memungkinkan Anda untuk mentransfer blog atau situs ke web host dengan satu perintah.
 

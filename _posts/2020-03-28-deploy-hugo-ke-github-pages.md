@@ -10,10 +10,10 @@ Yang pertama adalah siapkan 2 repository GitHub, sebagai berikut:
 - Repo 1: bloghugo (sebagai repositori project)
 - Repo 2: _username_.github.io (untuk github pages)
 
-![Repositori Project](https://gh.iqbal.id/blog/img/hugo/repo-project.png)
+![Repositori Project](/migrated/blog/img/hugo/repo-project.png)
 Repositori `bloghugo` berfungsi untuk menyimpan semua file project Hugo. Repositori ini bisa digunakan sebagai backup.
 
-![GitHub Pages](https://gh.iqbal.id/blog/img/hugo/repo-pages.png)
+![GitHub Pages](/migrated/blog/img/hugo/repo-pages.png)
 Sementara repositori `username.github.io` untuk menyimpan file yang ada di `public` atau hasil render dari Hugo.
 
 Semua file statis yang ada di repositori `username.github.io`, nantinya akan diakses melalui https://username.github.io.
@@ -241,12 +241,12 @@ root@static:~/bloghugo#
 
 Deploy selesai..
 
-![Deploy sukses](https://gh.iqbal.id/blog/img/hugo/repo-project-deployed.png)
-![Deploy sukses](https://gh.iqbal.id/blog/img/hugo/repo-pages-deployed.png)
+![Deploy sukses](/migrated/blog/img/hugo/repo-project-deployed.png)
+![Deploy sukses](/migrated/blog/img/hugo/repo-pages-deployed.png)
 
 Sekarang, akses alamat `https://username.github.io`
 
-![GitHub Pages berhasil di buat](https://gh.iqbal.id/blog/img/hugo/iqbalbirrul-github-pages.png)
+![GitHub Pages berhasil di buat](/migrated/blog/img/hugo/iqbalbirrul-github-pages.png)
 
 Hugo berhasil di deploy ke GitHub Pages..
 

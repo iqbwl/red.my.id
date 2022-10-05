@@ -54,7 +54,7 @@ openssl req -new -key iqbal.page.key -out iqbal.page.csr -config iqbal.page.cnf
 > option `-config` harus ditambahkan, jika tidak maka CSR hanya berlaku untuk 1 common name.
 > pada kolom common name saat generate, masukan domain utama, contoh: `*.iqbal.page`
 
-![generate csr](https://gh.iqbal.id/blog/img/csr-generate.png)
+![generate csr](/migrated/blog/img/csr-generate.png)
 
 Verify CSR
 
@@ -64,4 +64,4 @@ openssl req -in iqbal.page.csr -noout -text
 
 Hasilnya sebagi berikut:
 
-![csr check](https://gh.iqbal.id/blog/img/csr-preview.png)
+![csr check](/migrated/blog/img/csr-preview.png)

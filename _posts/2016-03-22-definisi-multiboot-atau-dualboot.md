@@ -5,7 +5,7 @@ layout: post
 
 Multi-Boot atau Dual-Boot, adalah nama atau sebutan untuk menginstall dua sistem operasi atau lebih pada satu komputer, misalnya Ubuntu (Linux) dengan Windows.
 
-![Multisystem](https://gh.iqbal.id/blog/img/multisystem.png)
+![Multisystem](/migrated/blog/img/multisystem.png)
 
 Dua sistem operasi atau lebih dapat diinstall pada harddisk yang sama namun pada partisi yang terpisah, atau dua sistem operasi atau lebih yang diinstall pada partisi yang sama namun hard disk yang terpisah. Hal ini memungkinkan bila komputer memiliki lebih dari satu hard disk yang terinstall.
 

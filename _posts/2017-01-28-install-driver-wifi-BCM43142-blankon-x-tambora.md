@@ -29,6 +29,6 @@ dan load modul `wl`
 modprobe wl
 ```
 
-![successful](https://gh.iqbal.id/blog/img/wlan.png)
+![successful](/migrated/blog/img/wlan.png)
 
 Selesai, semoga bermanfaat.

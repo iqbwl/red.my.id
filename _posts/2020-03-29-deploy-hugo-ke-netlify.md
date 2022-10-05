@@ -50,19 +50,19 @@ Buat konfigurasi Netlify pada repository terlebih dahulu.
 
 - Buka website [Netlify](https://netlify.com), dan buat akun.
 - Apabila akun sudah dibuat, klik New Site from Git.
- ![New Site](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-new-site.png)
+ ![New Site](/migrated/blog/img/hugo/netlify/netlify-new-site.png)
 
 - Pilih antara GitHub, GitLab atau BitBucket tempat dimana repository Hugo sebelumnya dideploy.
- ![Continuous Deployment](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-deployment.png)
+ ![Continuous Deployment](/migrated/blog/img/hugo/netlify/netlify-deployment.png)
 
  - Pilih repository.
-  ![Select Repository](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-repo.png)
+  ![Select Repository](/migrated/blog/img/hugo/netlify/netlify-repo.png)
 
 - Klik Deploy Site.
-  ![Deploy Site](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-deploy-site.png)
+  ![Deploy Site](/migrated/blog/img/hugo/netlify/netlify-deploy-site.png)
 
 - Tunggu beberapa saat, dan Hugo berhasil dideploy ke Netlify.
-  ![Deploy Success](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-deploy-success.png)
+  ![Deploy Success](/migrated/blog/img/hugo/netlify/netlify-deploy-success.png)
 
   **Note:** Nantinya setiap kita melakukan update konten dan push repository, maka website pada Netlify akan secara otomatis terupdate.
 
@@ -71,20 +71,20 @@ Buat konfigurasi Netlify pada repository terlebih dahulu.
 Pada screenshot diatas, kita mendapatkan subdomain `quirky-einstein-28a6c9.netlify.com`. Subdomain ini dapat kita ubah.
 
 - Masuk ke Site Settings
-  ![Site Settings](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-site-settings.png)
+  ![Site Settings](/migrated/blog/img/hugo/netlify/netlify-site-settings.png)
 
 - Pada Site Details, klik Change site name
-  ![Site Details](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-change-site-name.png)
+  ![Site Details](/migrated/blog/img/hugo/netlify/netlify-change-site-name.png)
 
 - Ubah subdomain, sesuai keinginan (bila tersedia) lalu klik Save.
-  ![Change Site Name](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-change-site-name-save.png)
+  ![Change Site Name](/migrated/blog/img/hugo/netlify/netlify-change-site-name-save.png)
 
 - Subdomain berhasil diubah.
-  ![New Site Details](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-change-site-name-success.png)
+  ![New Site Details](/migrated/blog/img/hugo/netlify/netlify-change-site-name-success.png)
 
 - Akses subdomain
-  ![Website Hugo](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-subdomain.png)
-  ![Website Hugo](https://gh.iqbal.id/blog/img/hugo/netlify/netlify-subdomain2.png)
+  ![Website Hugo](/migrated/blog/img/hugo/netlify/netlify-subdomain.png)
+  ![Website Hugo](/migrated/blog/img/hugo/netlify/netlify-subdomain2.png)
 
 - Selesai..
 
