@@ -1,9 +1,9 @@
 [[redirects]]
-  from = "https://iqbwl.netlify.app/*"
-  to = "https://iqbal.id/:splat"
+  from = "https://iqbwl.netlify.app/blog/*"
+  to = "https://iqbwl.netlify.app/:splat"
   status = 301
   force = true
-  
+
 [[redirects]]
   from = "https://iqbal.id/blog/*"
   to = "https://iqbal.id/:splat"
@@ -11,25 +11,13 @@
   force = true
 
 [[redirects]]
-  from = "https://iqbal.id/facebook"
-  to = "https://fb.me/iqbwlx"
+  from = "https://iqbal.soang.net/blog/*"
+  to = "https://iqbal.soang.net/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://iqbal.id/telegram"
-  to = "https://t.me/iqbwl"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://iqbal.id/twitter"
-  to = "https://twitter.com/iqbaleth"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://iqbal.id/evm"
-  to = "https://blockscan.com/address/0x111114763659874226785ab7b7df9e1364be8332"
+  from = "https://iqbal.merem.net/blog/*"
+  to = "https://iqbal.merem.net/:splat"
   status = 301
   force = true
