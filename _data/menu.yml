@@ -8,8 +8,7 @@ entries:
         url: feed.xml
       - title: email <a href='mailto:iqbalbirrul@gmail.com'>iqbalbirrul@gmail.com</a>
       - title: built using <a href='https://jekyllrb.com/'>Jekyll</a> and <a href='https://github.com/riggraz/no-style-please'>no-style-please</a> theme
-      - title: docs
-        url: docs
+      - title: <a href='/docs'>docs</a> - <a href='/learning'>learning</a>
 
   - title: writings
     post_list:
