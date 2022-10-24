@@ -37,7 +37,6 @@ exclude:
   - netlify.toml
 
 include:
-  - _pages
   - svg
   - img
   - migrated
