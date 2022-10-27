@@ -1,23 +1,23 @@
 [[redirects]]
-  from = "https://iqbwl.netlify.app/blog/*"
-  to = "https://iqbwl.netlify.app/:splat"
+  from = "https://iqbwl.netlify.app/feed.xml"
+  to = "https://iqbwl.netlify.app/sitemap.xml"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://iqbal.id/blog/*"
-  to = "https://iqbal.id/:splat"
+  from = "https://iqbal.id/feed.xml"
+  to = "https://iqbal.id/sitemap.xml"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://iqbal.soang.net/blog/*"
-  to = "https://iqbal.soang.net/:splat"
+  from = "https://iqbal.soang.net/feed.xml"
+  to = "https://iqbal.soang.net/sitemap.xml"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://iqbal.merem.net/blog/*"
-  to = "https://iqbal.merem.net/:splat"
+  from = "https://iqbal.merem.net/feed.xml"
+  to = "https://iqbal.merem.net/sitemap.xml"
   status = 301
   force = true
