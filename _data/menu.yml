@@ -6,9 +6,16 @@ entries:
     entries:
       - title: feed
         url: feed.xml
-      - title: email <a href='mailto:iqbalbirrul@gmail.com'>iqbalbirrul@gmail.com</a>
+      - title: email <a href='mailto:iqbwlx@gmail.com'>iqbwlx@gmail.com</a>
       - title: built using <a href='https://jekyllrb.com/'>Jekyll</a> and <a href='https://github.com/riggraz/no-style-please'>no-style-please</a> theme
-      - title: <a href='/docs'>docs</a> - <a href='/learning'>learning</a> - <a href='/testnet'>testnet</a>
+  - title: pages
+    entries:
+      - title: docs
+        url: docs
+      - title: learning
+        url: learning
+      - title: testnet
+        url: testnet
 
   - title: writings
     post_list:
@@ -20,4 +27,5 @@ entries:
   - title: social
     entries:
       - title: github <a href='https://github.com/iqbwl'>@iqbwl</a>
-      - title: lens at <a href='https://lenster.xyz/u/iqbal.lens'>iqbal.lens</a>
+      - title: twitter <a href='https://twitter.com/iqbwlx'>@iqbwlx</a>
+      - title: lens at <a href='https://lenster.xyz/u/iqbwl.lens'>iqbwl.lens</a>
