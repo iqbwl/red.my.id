@@ -41,6 +41,7 @@ include:
   - svg
   - img
   - migrated
+  - proof
 
 # deployment
 #host: 0.0.0.0
