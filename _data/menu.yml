@@ -5,15 +5,8 @@ entries:
   - title: info
     entries:
       - title: email <a href='mailto:iqbwlx@gmail.com'>iqbwlx@gmail.com</a>
-      - title: built using <a href='https://jekyllrb.com/'>Jekyll</a> and <a href='https://github.com/riggraz/no-style-please'>no-style-please</a> theme
-  - title: pages
-    entries:
-      - title: docs
-        url: docs
-      - title: learning
-        url: learning
-      - title: testnet
-        url: testnet
+      - title: twitter <a href='https://twitter.com/iqbwlx'>@iqbwlx</a>
+      - title: pages <a href='/docs'>docs</a>, <a href='/learning'>learning</a> & <a href='/testnet'>testnet</a>
 
   - title: writings
     post_list:
@@ -21,10 +14,3 @@ entries:
       show_more: true
       show_more_text: more..
       show_more_url: archive
-  
-  - title: social
-    entries:
-      - title: github <a href='https://github.com/iqbwl'>@iqbwl</a>
-      - title: twitter <a href='https://twitter.com/iqbwlx'>@iqbwlx</a>
-      - title: ens at <a href='https://etherscan.io/address/iqbwl.eth'>iqbwl.eth</a> & <a href='https://etherscan.io/address/vault.iqbwl.eth'>vault.iqbwl.eth</a>
-      - title: lens at <a href='https://lenster.xyz/u/iqbwl.lens'>iqbwl.lens</a>
