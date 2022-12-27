@@ -5,8 +5,9 @@ Twitter
 - @iqbwlx
 -----------------------------
 Telegram
-- 1st @iqbwl
-- 2nd @iqbwlx
+- @iqbwl
+-----------------------------
+- iqbwl#7777
 -----------------------------
 Reddit
 - /u/iqbwl
@@ -15,15 +16,11 @@ ENS Domains
 - iqbwl.eth
 -----------------------------
 Lens Protocol
-- @iqbwl.lens
-- @iqbal.lens
------------------------------
-KEY3 DID
-- iqbwl.did
+- @iqbwl
 -----------------------------
 Mastodon
 - @iqbwl
 -----------------------------
-Git
-- github@iqbwl
+GitHub
+- @iqbwl
 -----------------------------
