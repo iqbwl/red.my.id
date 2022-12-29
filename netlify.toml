@@ -27,15 +27,3 @@
   to = "https://iqbwl.com/:splat"
   status = 301
   force = true
-
-[[redirects]]
-  from = "https://iqbal.soang.net/*"
-  to = "https://iqbwl.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://iqbal.merem.net/*"
-  to = "https://iqbwl.com/:splat"
-  status = 301
-  force = true
