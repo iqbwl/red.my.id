@@ -10,7 +10,7 @@ entries:
 
   - title: writings
     post_list:
-      limit: 5
+      limit: 6
       show_more: true
       show_more_text: more..
       show_more_url: archive
