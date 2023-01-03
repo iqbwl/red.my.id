@@ -7,3 +7,4 @@ gem "kramdown-parser-gfm"
 gemspec
 gem "webrick", "~> 1.7"
 gem 'jekyll-sitemap'
+gem 'wdm'
