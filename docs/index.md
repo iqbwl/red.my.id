@@ -7,3 +7,4 @@ layout: page
 - [Powershell ssh-copy-id](/docs/powershell-ssh-copy-id)
 - [Redirect menggunakan html](/docs/redirect-menggunakan-html)
 - [Web Server](/docs/web-server)
+- [Zip file melalui Ubuntu](/docs/zip-file-melalui-ubuntu-99)
