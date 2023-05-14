@@ -1,29 +1,11 @@
 [[redirects]]
-  from = "https://iqbwl.netlify.app/*"
-  to = "https://iqbwl.com/:splat"
+  from = "https://iqbwl-arsip.netlify.app/*"
+  to = "https://arsip.iqbwl.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://iqbwl.com/feed.xml"
-  to = "https://iqbwl.com/sitemap.xml"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://iqbwl.netlify.app/*"
-  to = "https://iqbwl.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://iqbal.id/*"
-  to = "https://iqbwl.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.iqbal.id/*"
-  to = "https://iqbwl.com/:splat"
+  from = "https://arsip.iqbwl.com/feed.xml"
+  to = "https://arsip.iqbwl.com/sitemap.xml"
   status = 301
   force = true
