@@ -4,9 +4,8 @@
 entries:
   - title: info
     entries:
-      - title: email <a href='mailto:iqbwlx@gmail.com'>iqbwlx@gmail.com</a>
-      - title: twitter <a href='https://twitter.com/iqbwlx'>@iqbwlx</a>
-      - title: pages <a href='/docs'>docs</a>, <a href='/learning'>learning</a> & <a href='/testnet'>testnet</a>
+      - title: email <a href='mailto:linux@red.my.id'>linux@red.my.id</a>
+      - title: pages <a href='/docs'>docs</a> & <a href='/learning'>learning</a>
 
   - title: writings
     post_list:
