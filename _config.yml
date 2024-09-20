@@ -33,7 +33,7 @@ exclude:
   - README.md
   - no-style-please.md
   - no-style-please.gemspec
-  - netlify.toml
+  - netlify.toml.save
 
 include:
   - svg
