@@ -4,6 +4,7 @@ email: linux@red.my.id
 description: > # description of the site (multiple lines allowed)
   personal blogs
 
+url: "https://iqbwl.com"
 permalink: /:slug
 
 favicon: "/assets/icons8-sauropod-96.png" # name+extension of favicon (which must be put on the root folder)
