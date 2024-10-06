@@ -5,7 +5,6 @@ entries:
   - title: info
     entries:
       - title: email <a href='mailto:linux@red.my.id'>linux@red.my.id</a>
-      - title: pages <a href='/docs'>docs</a> & <a href='/learning'>learning</a>
 
   - title: writings
     post_list:

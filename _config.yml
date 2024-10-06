@@ -1,10 +1,10 @@
-title: iqbwl
+title: Red Blog
 author: iqbwl
 email: linux@red.my.id
 description: > # description of the site (multiple lines allowed)
-  personal blogs
+  Welcome to Red Blog
 
-url: "https://iqbwl.com"
+url: "https://red.my.id"
 permalink: /:slug
 
 favicon: "/assets/icons8-sauropod-96.png" # name+extension of favicon (which must be put on the root folder)
@@ -35,10 +35,10 @@ exclude:
   - no-style-please.md
   - no-style-please.gemspec
 
-include:
-  - svg
-  - img
-  - migrated
+#include:
+#  - svg
+#  - img
+#  - migrated
 
 # deployment
 #host: 0.0.0.0
